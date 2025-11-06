@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**cyphire-cyber/cyphire-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you star# 💫 About Me:
+# 💫 About Me:
 I'm currently working on developing my skills in IT<br>I'm looking to work in IT support roles<br>I'm currently computer science student<br>You can ask me about IT<br>I love solving IT problem
 
 
@@ -23,14 +18,4 @@ I'm currently working on developing my skills in IT<br>I'm looking to work in IT
 ---
 [![](https://visitcount.itsvg.in/api?id=cyphire-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ted:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
